@@ -12,9 +12,10 @@ An AWS User which will have the below permissions:
     * AWS COMPREHEND Full Access
 
 ## Installation 
-''' bash
+```
 pip install boto3
 pip install pandas
-'''
+```
+
 
 

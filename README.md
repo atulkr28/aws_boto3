@@ -6,15 +6,16 @@ Any user can upload an image (let's say pile of garbage) then using AWS Rekognit
 
 ## Prerequisite
 An AWS User which will have the below permissions:
-    * AWS S3 Full Access
-    * AWS SNS Full Access
-    * AWS REKOGNITION Full Access
-    * AWS COMPREHEND Full Access
+* AWS S3 Full Access
+* AWS SNS Full Access
+* AWS REKOGNITION Full Access
+* AWS COMPREHEND Full Access
 
 ## Installation 
-''' bash
+```
 pip install boto3
 pip install pandas
-'''
+```
+
 
 
